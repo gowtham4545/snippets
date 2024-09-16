@@ -1,0 +1,21 @@
+{
+    "Code Block": {
+        "prefix": "code",
+        "body": [
+            "+ text$1",
+            "",
+            "```bash",
+            "command$2",
+            "```",
+            ""
+        ],
+        "description": "Code explaination snippet"
+    },
+    "pre": {
+        "prefix": "pre",
+        "body": [
+            "<pre>$1</pre>"
+        ],
+        "description": "pre code snippet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Print to console": {
+        "prefix": "aaa",
+        "body": [
+            "#include<stdio.h>",
+            "",
+            "int main()",
+            "{",
+            "\t$1",
+            "\t$2",
+            "\treturn 0;",
+            "}"
+        ],
+        "description": "Log output to console"
+    }
+}

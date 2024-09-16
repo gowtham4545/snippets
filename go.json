@@ -1,0 +1,23 @@
+{
+    "Init": {
+        "prefix": "aaa",
+        "body": [
+            "package main",
+            "",
+            "import \"fmt\"",
+            "",
+            "func main() $2{",
+            "\tfmt.Println($1)",
+            "}",
+            "$3"
+        ],
+        "description": "Basic Setup"
+    },
+    "Print": {
+        "prefix": "pri",
+        "body": [
+            "fmt.Println($1)"
+        ],
+        "description": "Print value"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Print to console": {
+        "prefix": "aaaa",
+        "body": [
+            "#include<iostream>",
+            "using namespace std;",
+            "",
+            "int main()",
+            "{",
+            "\t$1",
+            "\t",
+            "\treturn 0;",
+            "}"
+        ],
+        "description": "Log output to console"
+    }
+}
