@@ -4,9 +4,9 @@
         "body": [
             "+ text$1",
             "",
-            "```bash",
-            "command$2",
-            "```",
+            "\t```bash",
+            "\tcommand$2",
+            "\t```",
             ""
         ],
         "description": "Code explaination snippet"
